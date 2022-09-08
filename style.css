@@ -1,0 +1,263 @@
+#navbarstyle{
+   
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+    border: 20px;
+}
+
+#navbers{
+    border: 3px solid red;
+}
+.navebarstyling a{
+    text-decoration: dashed !important;
+    color: black;
+}
+
+.navebarstyling{
+   text-align: center;
+   margin-top: 15px;
+   margin-bottom: 10px;
+}
+.navhome{
+    text-decoration: none !important;
+}
+
+.navlogo img{
+    height: 55px;
+    width: 65px;
+}
+
+/*HEADER CODING START */
+#header{
+    background-color: rgb(199, 232, 204);
+    margin-top: 10px;
+}
+
+#header_img{
+    height: 450px;
+    width: 750px;
+}
+
+.headersub{
+   margin: 25px;
+}
+
+/*--------CATAGORY CODING START-------------*/
+
+
+#catagory{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+.gatogorisetext{
+
+    text-align: center;
+    
+}
+.gatogorisetext a{
+    text-decoration: none !important;
+
+}
+
+.gatogorisetext img{
+    height: 75px;
+    width: 75px;
+    border-radius: 40%;
+
+}
+
+#catagoriesbackground{
+    background-color: rgb(169, 236, 213);
+}
+/*latest product css coding start */
+
+#latest_product{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    margin-top: 25px;
+    background-color: aliceblue;
+}
+
+/*FOOTER CODING START */
+
+#footer{
+    background-color: black;
+    text-align: center;
+}
+
+.futter_heading{
+    color: white;
+    margin-top: 25px;
+    margin-top: 25px;
+}
+
+.footerimg{
+    height: 70px;
+    width: 70px;
+    margin-top: 25px;
+    border-radius: 50%;
+}
+
+.footer_text{
+    color: white;
+    font-style: italic;
+}
+
+.footer_text a{
+    text-decoration: none !important;
+    color: wheat;
+}
+
+#coppy_wright{
+    color: white;
+    font-style: italic;
+}
+
+#catagory{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.socilmedia a img{
+    height: 40px;
+    width: 40px;
+    margin-left: 2px;
+}
+
+/*BHIMPUR CSS CODING START */
+
+.bhimpurhead{
+    text-align: center;
+    color: rgb(240, 36, 21);
+    font-style: italic;
+    margin-bottom: 25px;
+}
+.distrybuterstyle{
+    text-align: center;
+}
+
+/*PRODUCT CSS CODING START */
+
+.productstyle{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.loylty{
+    text-align: center;
+    color: green;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/*product page css coding */
+
+#allproduct h1{
+
+     text-align: center;
+     margin-top: 15px;
+     margin-top: 15px;
+     color: rgb(51, 231, 54);
+     background-color: rgb(210, 189, 230);
+}
+
+
+/*about us coding start */
+
+.aboutusimg img{
+     height: 150px;
+     will-change: 150px;
+}
+
+.aboutusimg{
+    text-align: center;
+}
+
+
+/*CONTRACTUS CODING START*/
+
+#contractus_bacground{
+
+    background-color: rgb(49, 194, 234) !important;
+
+}
+
+
+/*ABOUT US CODING START */
+
+#aboutus_bacground{
+    background-color: rgb(57, 229, 192) !important;
+}
+
+
+/*ASANAGAR CODING START */
+.asanagar{
+    background-color: aquamarine;
+}
+
+/*WHATAPP CODING START*/
+
+.whatapp img{
+   
+    height: 25px;
+    width: 35px;
+}
+
+/*About Us CODING START*/
+
+.aboutus{
+    background-color: aqua;
+}
+
+.our_creativity{
+    padding: 20px;
+    margin-left: 250px;
+
+    
+}
+.leader{
+    background-color: chartreuse;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.leadership img{
+
+    height: 150px;
+    width: 150px;
+   
+}
+
+.leadership {
+    text-align: center;
+}
+
+.privacy_policy{
+    background-color: greenyellow;
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+
+.privacy_policy h1{
+    margin-left: 25px;
+}
+
+.privacy_text h6{
+    text-align: justify;
+    line-height: 20px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
